@@ -12,9 +12,12 @@
   </a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tdietzel22&theme=holi-theme&fire=EB0000&ring=FFDF00&currStreakLabel=EB0000&dates=A9FEF7&sideNums=62EB53&sideLabels=FFFFFF&currStreakNum=17EB00)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tdietzel22&show_icons=true&theme=radical)
 <div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=tdietzel22&theme=holi-theme&fire=EB0000&ring=FFDF00&currStreakLabel=EB0000&dates=A9FEF7&sideNums=62EB53&sideLabels=FFFFFF&currStreakNum=17EB00)](https://git.io/streak-stats)
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tdietzel22&show_icons=true&theme=radical)
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdietzel22&layout=compact" alt="Top Languages">
 </div>
 <hr>
