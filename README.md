@@ -14,8 +14,8 @@
 <br>
 
 <!-- About Me -->
-- 🔭 I’m currently working on [Currency Exchange](https://github.com/tdietzel22/Currency_Exchange)
-- 🌱 I’m currently learning React
+- 🛠️ I’m currently working on [Currency Exchange](https://github.com/tdietzel22/Currency_Exchange)
+- 🧠 I’m currently learning React
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: After working out, it takes 5 hours for your body temperature to return to normal!
 
@@ -36,13 +36,26 @@
 <!-- Top Projects -->
 <details open> 
   <summary><h2>📚 My Top Projects</h2></summary>
-
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  
   <p align="left">
-    <a href="https://github.com/tdietzel22/Currency_Exchanger">
+  <!-- Currency Exchanger -->  
+      <a href="https://github.com/tdietzel22/Currency_Exchanger">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel22&repo=Currency_Exchanger&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="Currency_Exchanger">
+  <!-- Pizza Parlor -->    
+      <a href="https://github.com/tdietzel22/Pizza_Parlor">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel22&repo=Pizza_Parlor&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="Pizza_Parlor">
+  <!-- Account Login -->    
+      <a href="https://github.com/tdietzel22/Account_Login">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel22&repo=Account_Login&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="Account_Login">
+  <!-- Mr Robo Neighborhood -->    
+      <a href="https://github.com/tdietzel22/Mr_Robo_Neighborhood">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel22&repo=Mr_Robo_Neighborhood&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="Mr_Robo_Neighborhood">
+  <!-- Portfolio -->    
+      <a href="https://github.com/tdietzel22/portfolio">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel22&repo=portfolio&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="portfolio">
 </a>
-
+  </p>
   <a href="https://github.com/tdietzel22?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 <hr>
@@ -78,9 +91,12 @@
 <hr>
 <div align="center">
   
+  <p><em>Ask a question or write something nice!</em></p>
+  
   <!-- Guest Book -->
   <a href="https://github.com/tdietzel22/tdietzel22/issues"><img src="https://github.com/tdietzel22/tdietzel22/blob/main/guestbook.gif" alt="Guest book" align="center"></a>
   <!-- View Counter -->
   <img src="https://profile-counter.glitch.me/{tdietzel22}/count.svg" alt="Visitor Count">
+  <br>
   👀ᴵ ˢᵉᵉ ʸᵒᵘ
 </div>
