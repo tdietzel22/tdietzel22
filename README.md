@@ -28,12 +28,11 @@
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   </div>
 
-  <!-- Computer Giph -->
+<!-- Computer Giph -->
 <div align="center">
-  <img src="https://media.giphy.com/media/XHAv3GveJMXMXSumkO/giphy.gif" alt="GIF" width="436" height="480">
+  <img src="https://media.giphy.com/media/2sMOUSy658zgS1CjY7/giphy.gif" alt="GIF"/>
 </div>
 <hr>
-
 <!-- Top Projects -->
 <details open> 
   <summary><h2>📚 My Top Projects</h2></summary>
