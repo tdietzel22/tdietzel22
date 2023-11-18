@@ -47,6 +47,7 @@
 </details>
 <hr>
 
+<!-- Stats and Activity -->
 <details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
 
@@ -75,8 +76,11 @@
 </details>
 
 <hr>
-<!-- View Counter -->
 <div align="center">
+  
+  <!-- Guest Book -->
+  <a href="https://github.com/tdietzel22/tdietzel22/issues"><img src="https://github.com/tdietzel22/tdietzel22/blob/main/guestbook.gif" alt="Guest book" align="center"></a>
+  <!-- View Counter -->
   <img src="https://profile-counter.glitch.me/{tdietzel22}/count.svg" alt="Visitor Count">
-👀ᴵ ˢᵉᵉ ʸᵒᵘ
+  👀ᴵ ˢᵉᵉ ʸᵒᵘ
 </div>
