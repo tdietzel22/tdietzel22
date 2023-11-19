@@ -3,19 +3,19 @@
 
 <!-- Follow -->
 <div align="center"> 
-  <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40"/></a>
-    <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="40"/></a>
-  <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40"/></a>
+  <a href="https://www.linkedin.com/in/trentdietzel/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40"/></a>
+    <a href="discordapp.com/users/imxias" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="40"/></a>
+  <a href="https://twitter.com/imxias" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40"/></a>
 </div>
 
-<a href="https://github.com/tdietzel22?tab=followers">
-  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/tdietzel22?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+<a href="https://github.com/tdietzel?tab=followers">
+  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/tdietzel?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
 <br>
 
 <!-- About Me -->
-- 🛠️ I’m currently working on [Currency Exchange](https://github.com/tdietzel22/Currency_Exchange)
-- 🧠 I’m currently learning React
+- 🛠️ I’m currently working on [Currency Exchange](https://github.com/tdietzel/Currency_Exchange)
+- 🧠 In the React course at Epicodus
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: After working out, it takes 5 hours for your body temperature to return to normal!
 
@@ -40,23 +40,23 @@
   
   <p align="left">
   <!-- Currency Exchanger -->  
-      <a href="https://github.com/tdietzel22/Currency_Exchanger">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel22&repo=Currency_Exchanger&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="Currency_Exchanger">
+      <a href="https://github.com/tdietzel/Currency_Exchanger">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=Currency_Exchanger&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="Currency_Exchanger">
   <!-- Pizza Parlor -->    
-      <a href="https://github.com/tdietzel22/Pizza_Parlor">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel22&repo=Pizza_Parlor&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="Pizza_Parlor">
+      <a href="https://github.com/tdietzel/Pizza_Parlor">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=Pizza_Parlor&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="Pizza_Parlor">
   <!-- Account Login -->    
-      <a href="https://github.com/tdietzel22/Account_Login">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel22&repo=Account_Login&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="Account_Login">
+      <a href="https://github.com/tdietzel/Account_Login">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=Account_Login&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="Account_Login">
   <!-- Mr Robo Neighborhood -->    
-      <a href="https://github.com/tdietzel22/Mr_Robo_Neighborhood">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel22&repo=Mr_Robo_Neighborhood&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="Mr_Robo_Neighborhood">
+      <a href="https://github.com/tdietzel/Mr_Robo_Neighborhood">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=Mr_Robo_Neighborhood&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="Mr_Robo_Neighborhood">
   <!-- Portfolio -->    
-      <a href="https://github.com/tdietzel22/portfolio">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel22&repo=portfolio&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="portfolio">
+      <a href="https://github.com/tdietzel/portfolio">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=portfolio&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="portfolio">
 </a>
   </p>
-  <a href="https://github.com/tdietzel22?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/tdietzel?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 <hr>
 
@@ -74,15 +74,15 @@
   <h3>🔥 Streak Stats</h3>
 
   <!-- GitHub Readme Streak Stats - https://github.com/tdietzel22/github-readme-streak-stats -->
-  [![GitHub Streak](https://streak-stats.demolab.com?user=tdietzel22&theme=holi-theme&fire=EB0000&ring=FFDF00&currStreakLabel=EB0000&dates=A9FEF7&sideNums=62EB53&sideLabels=FFFFFF&currStreakNum=17EB00)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=tdietzel&theme=holi-theme&fire=EB0000&ring=FFDF00&currStreakLabel=EB0000&dates=A9FEF7&sideNums=62EB53&sideLabels=FFFFFF&currStreakNum=17EB00)](https://git.io/streak-stats)
 
   <h3>💻 GitHub Profile Stats</h3>
 
   <!-- https://github.com/tdietzel22/github-readme-stats -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tdietzel22&show_icons=true&theme=great-gatsby)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tdietzel&show_icons=true&theme=great-gatsby)
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="tdietzel22's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=tdietzel22&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+  <img alt="tdietzel's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=tdietzel&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
 </a>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -94,7 +94,7 @@
   <p><em>Ask a question or write something nice!</em></p>
   
   <!-- Guest Book -->
-  <a href="https://github.com/tdietzel22/tdietzel22/issues"><img src="https://github.com/tdietzel22/tdietzel22/blob/main/guestbook.gif" alt="Guest book" align="center"></a>
+  <a href="https://github.com/tdietzel/tdietzel/issues"><img src="https://github.com/tdietzel/tdietzel/blob/main/guestbook.gif" alt="Guest book" align="center"></a>
   <!-- View Counter -->
   <img src="https://profile-counter.glitch.me/{tdietzel22}/count.svg" alt="Visitor Count">
   <br>
