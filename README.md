@@ -4,7 +4,7 @@
 <!-- Follow -->
 <div align="center"> 
   <a href="https://www.linkedin.com/in/trentdietzel/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40"/></a>
-    <a href="discordapp.com/users/imxias" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="40"/></a>
+    <a href="https://www.discordapp.com/users/imxias" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="40"/></a>
   <a href="https://twitter.com/imxias" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40"/></a>
 </div>
 
@@ -33,10 +33,11 @@
   <img src="https://media.giphy.com/media/2sMOUSy658zgS1CjY7/giphy.gif" alt="GIF"/>
 </div>
 <hr>
+
 <!-- Top Projects -->
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <details open> 
   <summary><h2>📚 My Top Projects</h2></summary>
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   
   <p align="left">
   <!-- Currency Exchanger -->  
@@ -57,6 +58,20 @@
 </a>
   </p>
   <a href="https://github.com/tdietzel?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
+<hr>
+
+<!-- Live Demos -->
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<details> 
+  <summary><h2>🌐 Live Demos</h2></summary>
+  
+  <p align="left">
+  <!-- Currency Exchanger -->  
+      <a href="https://tdietzel.github.io/Currency_Exchanger/">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=Currency_Exchanger&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="Currency_Exchanger">
+  <!-- Pizza Parlor -->    
+  </p>
 </details>
 <hr>
 
