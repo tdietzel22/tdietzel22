@@ -68,9 +68,17 @@
   
   <p align="left">
   <!-- Currency Exchanger -->  
-      <a href="https://tdietzel.github.io/Currency_Exchanger/">
+  <a href="https://tdietzel.github.io/Currency_Exchanger/">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=Currency_Exchanger&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="Currency_Exchanger">
-  <!-- Pizza Parlor -->    
+  <!-- Pizza Parlor -->  
+  <a href="https://tdietzel.github.io/Pizza_Parlor/">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=Pizza_Parlor&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="Pizza_Parlor">
+  <!-- Account Login -->  
+  <a href="https://tdietzel.github.io/Pizza_Parlor/">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=Account_Login&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="Account_Login">
+  <!-- Mr Robo -->  
+  <a href="https://tdietzel.github.io/Pizza_Parlor/">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=Mr_Robo_Neighborhood&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="Mr_Robo_Neighborhood">
   </p>
 </details>
 <hr>
