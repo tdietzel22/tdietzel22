@@ -4,7 +4,7 @@
 <!-- Follow -->
 <div align="center">
   <a href="https://www.linkedin.com/in/trentdietzel/" target="blank"><img align="center" src="./linkedin.png" alt="" height="40" width="40"/></a>
-    <a href="https://twitter.com/imxias" target="blank"><img align="center" src="./twitter.png" alt="" height="40" width="40"/></a>
+    <a href="https://twitter.com/trentdietzel" target="blank"><img align="center" src="./twitter.png" alt="" height="40" width="40"/></a>
   <a href="https://www.instagram.com/trent_dietzel/" target="blank"><img align="center" src="./instagram.png" alt="" height="40" width="40"/></a>
   <a href="https://www.discordapp.com/users/imxias" target="blank"><img align="center" src="./discord.png" alt="" height="40" width="40"/></a>
 </div>
