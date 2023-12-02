@@ -15,10 +15,10 @@
 <br>
 
 <!-- About Me -->
-- 🛠️ I’m currently working on [Currency Exchange](https://github.com/tdietzel/Currency_Exchange)
+- 🛠️ I’m currently working on [Functional RPG](https://github.com/tdietzel/functional_RPG)
 - 🧠 In the React course at Epicodus
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: After working out, it takes 5 hours for your body temperature to return to normal!
+- ⚡ Fun fact: After working out, it takes 5 hours for your body temperature to return to normal
 
 <!-- Languages & Tools -->
   <div align="center">
