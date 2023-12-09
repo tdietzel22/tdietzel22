@@ -15,7 +15,7 @@
 <br>
 
 <!-- About Me -->
-- 🛠️ I’m currently working on [Functional RPG](https://github.com/tdietzel/functional_RPG)
+- 🛠️ I’m currently working on [Coffee Shop Inventory](https://github.com/tdietzel/Coffee_Shop_Inventory)
 - 🧠 In the React course at Epicodus
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: After working out, it takes 5 hours for your body temperature to return to normal
@@ -41,20 +41,23 @@
   <summary><h2>📚 My Top Projects</h2></summary>
   
   <p align="left">
+  <!-- Coffee Shop Inventory -->  
+  <a href="https://github.com/tdietzel/Currency_Exchanger">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=Coffee_Shop_Inventory&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="Coffee_Shop_Inventory">
   <!-- Currency Exchanger -->  
-      <a href="https://github.com/tdietzel/Currency_Exchanger">
+  <a href="https://github.com/tdietzel/Currency_Exchanger">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=Currency_Exchanger&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="Currency_Exchanger">
   <!-- Pizza Parlor -->    
-      <a href="https://github.com/tdietzel/Pizza_Parlor">
+  <a href="https://github.com/tdietzel/Pizza_Parlor">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=Pizza_Parlor&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="Pizza_Parlor">
   <!-- Account Login -->    
-      <a href="https://github.com/tdietzel/Account_Login">
+  <a href="https://github.com/tdietzel/Account_Login">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=Account_Login&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="Account_Login">
   <!-- Mr Robo Neighborhood -->    
-      <a href="https://github.com/tdietzel/Mr_Robo_Neighborhood">
+  <a href="https://github.com/tdietzel/Mr_Robo_Neighborhood">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=Mr_Robo_Neighborhood&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="Mr_Robo_Neighborhood">
   <!-- Portfolio -->    
-      <a href="https://github.com/tdietzel/portfolio">
+  <a href="https://github.com/tdietzel/portfolio">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=portfolio&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="portfolio">
 </a>
   </p>
@@ -66,8 +69,11 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <details> 
   <summary><h2>🌐 Live Demos</h2></summary>
-  
+
   <p align="left">
+  <!-- Coffee Shop Inventory -->
+  <a href="https://github.com/tdietzel/Coffee_Shop_Inventory">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=Coffee_Shop_Inventory&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="Coffee_Shop_Inventory">
   <!-- Currency Exchanger -->  
   <a href="https://tdietzel.github.io/Currency_Exchanger/">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=Currency_Exchanger&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="Currency_Exchanger">
