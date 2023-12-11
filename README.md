@@ -42,7 +42,7 @@
   
   <p align="left">
   <!-- Coffee Shop Inventory -->  
-  <a href="https://github.com/tdietzel/Currency_Exchanger">
+  <a href="https://github.com/tdietzel/Coffee_Shop_Inventory">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=Coffee_Shop_Inventory&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="Coffee_Shop_Inventory">
   <!-- Currency Exchanger -->  
   <a href="https://github.com/tdietzel/Currency_Exchanger">
@@ -72,7 +72,7 @@
 
   <p align="left">
   <!-- Coffee Shop Inventory -->
-  <a href="https://github.com/tdietzel/Coffee_Shop_Inventory">
+  <a href="https://tdietzel.github.io/Coffee_Shop_Inventory/">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=Coffee_Shop_Inventory&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="Coffee_Shop_Inventory">
   <!-- Currency Exchanger -->  
   <a href="https://tdietzel.github.io/Currency_Exchanger/">
