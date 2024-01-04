@@ -15,8 +15,8 @@
 <br>
 
 <!-- About Me -->
-- 🛠️ I’m currently working on [Coffee Shop Inventory](https://github.com/tdietzel/Coffee_Shop_Inventory)
-- 🧠 In the React course at Epicodus
+- 🛠️ I’m currently working on [Spotify API](https://github.com/tdietzel/Spotify_API)
+- 🧠 In the React course Week 5 at Epicodus
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: After working out, it takes 5 hours for your body temperature to return to normal
 
