@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/trentdietzel/" target="blank"><img align="center" src="./linkedin.png" alt="" height="40" width="40"/></a>
     <a href="https://twitter.com/trentdietzel" target="blank"><img align="center" src="./twitter.png" alt="" height="40" width="40"/></a>
   <a href="https://www.instagram.com/trent_dietzel/" target="blank"><img align="center" src="./instagram.png" alt="" height="40" width="40"/></a>
-  <a href="https://www.discordapp.com/users/imxias" target="blank"><img align="center" src="./discord.png" alt="" height="40" width="40"/></a>
+  <a href="https://www.discordapp.com/users/trent.dev" target="blank"><img align="center" src="./discord.png" alt="" height="40" width="40"/></a>
 </div>
 
 <a href="https://github.com/tdietzel?tab=followers">
@@ -15,8 +15,8 @@
 <br>
 
 <!-- About Me -->
-- 🛠️ I’m currently working on [Spotify API](https://github.com/tdietzel/Spotify_API)
-- 🧠 In the React course Week 5 at Epicodus
+- 🛠️ I’m currently working on [Portfolio](https://github.com/tdietzel/Portfolio_React)
+- 🧠 In the C# course Week 1 at Epicodus
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: After working out, it takes 5 hours for your body temperature to return to normal
 
