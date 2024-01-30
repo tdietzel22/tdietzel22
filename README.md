@@ -15,8 +15,8 @@
 <br>
 
 <!-- About Me -->
-- 🛠️ I’m currently working on [Portfolio](https://github.com/tdietzel/Portfolio_React)
-- 🧠 In the C# course Week 2 at Epicodus
+- 🛠️ I’m currently working on [Tamagotchi](https://github.com/tdietzel/Tamagotchi)
+- 🧠 In the C# course Week 3 at Epicodus
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: After working out, it takes 5 hours for your body temperature to return to normal
 
