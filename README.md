@@ -1,12 +1,14 @@
+<!-- Update Top Projects and Live Demos -->
+
 <!-- Header -->
+
 ![Header](./github-header-image.png)
 
 <!-- Follow -->
 <div align="center">
   <a href="https://www.linkedin.com/in/trentdietzel/" target="blank"><img align="center" src="./linkedin.png" alt="" height="40" width="40"/></a>
-    <a href="https://twitter.com/trentdietzel" target="blank"><img align="center" src="./twitter.png" alt="" height="40" width="40"/></a>
-  <a href="https://www.instagram.com/trent_dietzel/" target="blank"><img align="center" src="./instagram.png" alt="" height="40" width="40"/></a>
   <a href="https://www.discordapp.com/users/trent.dev" target="blank"><img align="center" src="./discord.png" alt="" height="40" width="40"/></a>
+  <a href="https://twitter.com/trentdietzel" target="blank"><img align="center" src="./twitter.png" alt="" height="40" width="40"/></a>
 </div>
 
 <a href="https://github.com/tdietzel?tab=followers">
@@ -15,25 +17,32 @@
 <br>
 
 <!-- About Me -->
-- 🛠️ I’m currently working on [Tamagotchi](https://github.com/tdietzel/Tamagotchi)
-- 🧠 In the C# course Week 3 at Epicodus
+- 🛠️ I’m currently working on [Unity Game - Pierre's Nightmare](https://github.com/tdietzel/PierresNightmare)
+- 🧠 Currently learning: <i>Computer Science</i>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: After working out, it takes 5 hours for your body temperature to return to normal
 
-<!-- Languages & Tools -->
+<!-- Languages & Tools   *https://github.com/tandpfun/skill-icons#readme* -->
   <div align="center">
-  <h3>languages and tools:</h3> 
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <h3>languages and tools:</h3>
+
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=cs,unity,react,redux,vite,vitest,js,nodejs,npm,webpack,mysql,firebase,css,html,vscode,git,postman,powershell&theme=dark&perline=9" />
+    </a>
+  </p>
+  
+<!--   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
   </div>
 
 <!-- Computer Giph -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/2sMOUSy658zgS1CjY7/giphy.gif" alt="GIF"/>
 </div>
-<hr>
+<hr> -->
 
 <!-- Top Projects -->
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
