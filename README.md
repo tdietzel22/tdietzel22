@@ -17,8 +17,8 @@
 <br>
 
 <!-- About Me -->
-- 🛠️ I’m currently working on [Unity Game - Pierre's Nightmare](https://github.com/tdietzel/PierresNightmare)
-- 🧠 Currently learning: <i>Computer Science</i>
+- 🛠️ I’m currently working on [Learning Python!](https://github.com/tdietzel/learning_python)
+- 🧠 Currently learning: <i>Python - Week 1</i>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: After working out, it takes 5 hours for your body temperature to return to normal
 
@@ -28,7 +28,7 @@
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cs,unity,react,redux,vite,vitest,js,nodejs,npm,webpack,mysql,firebase,css,html,vscode,git,postman,powershell&theme=dark&perline=9" />
+      <img src="https://skillicons.dev/icons?i=cs,unity,react,redux,vite,vitest,js,nodejs,npm,py,webpack,mysql,firebase,css,html,vscode,atom,git,postman,powershell&theme=dark&perline=10" />
     </a>
   </p>
   
