@@ -2,7 +2,7 @@
 
 <!-- Header -->
 
-![Header](./github-header-image.png)
+![Header](./header.png)
 
 <!-- Follow -->
 <div align="center">
@@ -17,8 +17,8 @@
 <br>
 
 <!-- About Me -->
-- 🛠️ I’m currently working on [Learning Python!](https://github.com/tdietzel/learning_python)
-- 🧠 Currently learning: <i>Python - Week 1</i>
+- 🛠️ I’m currently working on [Learning TypeScript!](https://github.com/tdietzel/Learning_TypeScript)
+- 🧠 Currently learning: <i>Python, TypeScript, Next.js</i>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: After working out, it takes 5 hours for your body temperature to return to normal
 
@@ -51,23 +51,23 @@
   
   <p align="left">
     <!-- Portfolio -->  
+    <a href="https://github.com/tdietzel/PierresNightmare">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=PierresNightmare&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="Pierres Nightmare">
+    <!-- Pierres Bakery -->  
+    <a href="https://github.com/tdietzel/Tamagotchi_V2">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=Tamagotchi_V2&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="Tamagotchi_V2">
+    <!-- Coffee Shop Inventory Redux -->  
+    <a href="https://github.com/tdietzel/ParkLookupAPI">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=ParkLookupAPI&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="ParkLookupAPI">
+    <!-- Currency Exchanger -->  
+    <a href="https://github.com/tdietzel/SpotifyDiscover">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=SpotifyDiscover&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="SpotifyDiscover">
+    <!-- Pizza Parlor -->    
     <a href="https://github.com/tdietzel/Portfolio_React">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=Portfolio_React&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="Portfolio_React">
-    <!-- Pierres Bakery -->  
-    <a href="https://github.com/tdietzel/Pierres_Bakery">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=Pierres_Bakery&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="Pierres_Bakery">
-    <!-- Coffee Shop Inventory Redux -->  
-    <a href="https://github.com/tdietzel/Coffee_Shop_Redux">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=Coffee_Shop_Redux&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="Coffee_Shop_Redux">
-    <!-- Currency Exchanger -->  
-    <a href="https://github.com/tdietzel/Currency_Exchanger">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=Currency_Exchanger&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="Currency_Exchanger">
-    <!-- Pizza Parlor -->    
-    <a href="https://github.com/tdietzel/Pizza_Parlor">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=Pizza_Parlor&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="Pizza_Parlor">
     <!-- Mr Robo Neighborhood -->    
-    <a href="https://github.com/tdietzel/Mr_Robo_Neighborhood">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=Mr_Robo_Neighborhood&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="Mr_Robo_Neighborhood">
+    <a href="https://github.com/tdietzel/black_jack">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=black_jack&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="black_jack">
   </p>
   <a href="https://github.com/tdietzel?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
