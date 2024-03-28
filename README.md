@@ -1,7 +1,4 @@
-<!-- Update Top Projects and Live Demos -->
-
 <!-- Header -->
-
 ![Header](./header.png)
 
 <!-- Follow -->
@@ -17,32 +14,22 @@
 <br>
 
 <!-- About Me -->
-- 🛠️ I’m currently working on [Learning TypeScript!](https://github.com/tdietzel/Learning_TypeScript)
+- 🛠️ I’m currently working on [Learn Code](https://github.com/tdietzel/learn_code)
 - 🧠 Currently learning: <i>Python, TypeScript, Next.js</i>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: After working out, it takes 5 hours for your body temperature to return to normal
 
 <!-- Languages & Tools   *https://github.com/tandpfun/skill-icons#readme* -->
-  <div align="center">
+<div align="center">
   <h3>languages and tools:</h3>
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cs,unity,react,redux,vite,vitest,js,nodejs,npm,py,webpack,mysql,firebase,css,html,vscode,atom,git,postman,powershell&theme=dark&perline=10" />
+      <img src="https://skillicons.dev/icons?i=cs,nextjs,react,py,unity,js,redux,vite,vitest,nodejs,npm,webpack,mysql,firebase,css,html,vscode,git,postman,powershell&theme=dark&perline=10" />
     </a>
   </p>
-  
-<!--   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
-  </div>
-
-<!-- Computer Giph -->
-<!-- <div align="center">
-  <img src="https://media.giphy.com/media/2sMOUSy658zgS1CjY7/giphy.gif" alt="GIF"/>
 </div>
-<hr> -->
+<hr />
 
 <!-- Top Projects -->
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
@@ -50,22 +37,22 @@
   <summary><h2>📚 My Top Projects</h2></summary>
   
   <p align="left">
-    <!-- Portfolio -->  
+    <!-- Pierres Nightmare -->  
     <a href="https://github.com/tdietzel/PierresNightmare">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=PierresNightmare&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="Pierres Nightmare">
-    <!-- Pierres Bakery -->  
+    <!-- Tamagotchi V2 -->  
     <a href="https://github.com/tdietzel/Tamagotchi_V2">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=Tamagotchi_V2&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="Tamagotchi_V2">
-    <!-- Coffee Shop Inventory Redux -->  
+    <!-- Park Look up API -->  
     <a href="https://github.com/tdietzel/ParkLookupAPI">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=ParkLookupAPI&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="ParkLookupAPI">
-    <!-- Currency Exchanger -->  
+    <!-- Spotify Discover -->  
     <a href="https://github.com/tdietzel/SpotifyDiscover">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=SpotifyDiscover&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="SpotifyDiscover">
-    <!-- Pizza Parlor -->    
-    <a href="https://github.com/tdietzel/Portfolio_React">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=Portfolio_React&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="Portfolio_React">
-    <!-- Mr Robo Neighborhood -->    
+    <!-- Lifestyle -->    
+    <a href="https://github.com/tdietzel/lifestyle">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=lifestyle&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="lifestyle">
+    <!-- Black Jack -->    
     <a href="https://github.com/tdietzel/black_jack">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tdietzel&repo=black_jack&theme=great-gatsby&bg_color=1F222E&title_color=8300F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="black_jack">
   </p>
